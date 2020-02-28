@@ -1,4 +1,8 @@
 <keymap version="1" name="Visual Studio copy" parent="Visual Studio">
+  <action id="ActivateErrorsInSolutionToolWindow">
+    <keyboard-shortcut first-keystroke="ctrl alt 2" />
+    <keyboard-shortcut first-keystroke="ctrl w" second-keystroke="e" />
+  </action>
   <action id="Arrangement.Rule.Match.Condition.Move.Down" />
   <action id="Arrangement.Rule.Match.Condition.Move.Up" />
   <action id="ChangesView.Diff" />
