@@ -1,4 +1,9 @@
 <keymap version="1" name="Visual Studio copy" parent="Visual Studio">
+  <action id="ActivateProjectToolWindow">
+    <keyboard-shortcut first-keystroke="ctrl alt l" />
+    <keyboard-shortcut first-keystroke="alt 1" />
+    <keyboard-shortcut first-keystroke="ctrl b" />
+  </action>
   <action id="Arrangement.Rule.Match.Condition.Move.Down" />
   <action id="Arrangement.Rule.Match.Condition.Move.Up" />
   <action id="ChangesView.Diff" />
