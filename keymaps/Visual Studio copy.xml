@@ -71,5 +71,9 @@
   </action>
   <action id="SwitcherIterateItems" />
   <action id="SwitcherRecentEditedChangedToggleCheckBox" />
+  <action id="XDebugger.AttachToProcess">
+    <keyboard-shortcut first-keystroke="ctrl alt f5" />
+    <keyboard-shortcut first-keystroke="ctrl alt p" />
+  </action>
   <action id="openAssertEqualsDiff" />
 </keymap>
