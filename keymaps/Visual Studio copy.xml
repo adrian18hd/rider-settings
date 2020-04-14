@@ -8,6 +8,14 @@
   <action id="Arrangement.Rule.Match.Condition.Move.Up" />
   <action id="ChangesView.Diff" />
   <action id="ChooseNextSubsequentPropertyValueEditorAction" />
+  <action id="CollapseAllRegions">
+    <keyboard-shortcut first-keystroke="ctrl m" second-keystroke="o" />
+  </action>
+  <action id="CollapseBlock" />
+  <action id="CollapseRegion">
+    <keyboard-shortcut first-keystroke="ctrl period" />
+  </action>
+  <action id="CollapseSelection" />
   <action id="CommentByLineComment">
     <keyboard-shortcut first-keystroke="ctrl alt slash" />
     <keyboard-shortcut first-keystroke="ctrl alt divide" />
@@ -19,8 +27,12 @@
   <action id="Console.TableResult.CloneRow" />
   <action id="DatabaseView.CopyAction" />
   <action id="Diff.ShowDiff" />
+  <action id="EditorChooseLookupItemDot" />
   <action id="EditorDuplicate">
     <keyboard-shortcut first-keystroke="shift alt down" />
+  </action>
+  <action id="ExpandRegion">
+    <keyboard-shortcut first-keystroke="shift ctrl period" />
   </action>
   <action id="FileChooser.GotoDesktop" />
   <action id="Graph.ActualSize">
