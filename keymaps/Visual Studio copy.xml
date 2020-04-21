@@ -8,6 +8,14 @@
   <action id="Arrangement.Rule.Match.Condition.Move.Up" />
   <action id="ChangesView.Diff" />
   <action id="ChooseNextSubsequentPropertyValueEditorAction" />
+  <action id="CollapseAllRegions">
+    <keyboard-shortcut first-keystroke="ctrl m" second-keystroke="o" />
+  </action>
+  <action id="CollapseBlock" />
+  <action id="CollapseRegion">
+    <keyboard-shortcut first-keystroke="ctrl period" />
+  </action>
+  <action id="CollapseSelection" />
   <action id="CommentByLineComment">
     <keyboard-shortcut first-keystroke="ctrl alt slash" />
     <keyboard-shortcut first-keystroke="ctrl alt divide" />
@@ -18,9 +26,15 @@
   <action id="CompareTwoFiles" />
   <action id="Console.TableResult.CloneRow" />
   <action id="DatabaseView.CopyAction" />
+  <action id="Diff.ApplyLeftSide" />
   <action id="Diff.ShowDiff" />
+  <action id="EditorChooseLookupItemDot" />
   <action id="EditorDuplicate">
     <keyboard-shortcut first-keystroke="shift alt down" />
+  </action>
+  <action id="EditorNextWordWithSelection" />
+  <action id="ExpandRegion">
+    <keyboard-shortcut first-keystroke="shift ctrl period" />
   </action>
   <action id="FileChooser.GotoDesktop" />
   <action id="Graph.ActualSize">
@@ -29,18 +43,26 @@
   <action id="Images.Editor.ActualSize">
     <keyboard-shortcut first-keystroke="ctrl divide" />
   </action>
+  <action id="IncreaseColumnWidth" />
+  <action id="IncrementWindowWidth" />
   <action id="LocateInSolutionView">
     <keyboard-shortcut first-keystroke="shift alt l" />
     <keyboard-shortcut first-keystroke="ctrl semicolon" />
   </action>
   <action id="MethodDown" />
   <action id="MethodUp" />
+  <action id="MoveEditorToOppositeTabGroup">
+    <keyboard-shortcut first-keystroke="shift alt right" />
+  </action>
   <action id="MoveLineDown">
     <keyboard-shortcut first-keystroke="alt down" />
   </action>
   <action id="MoveLineUp">
     <keyboard-shortcut first-keystroke="shift alt up" />
     <keyboard-shortcut first-keystroke="alt up" />
+  </action>
+  <action id="MoveTabRight">
+    <keyboard-shortcut first-keystroke="shift ctrl right" />
   </action>
   <action id="ReformatCode">
     <keyboard-shortcut first-keystroke="ctrl alt enter" />
@@ -55,6 +77,7 @@
     <keyboard-shortcut first-keystroke="ctrl r" second-keystroke="ctrl r" />
     <keyboard-shortcut first-keystroke="f2" />
   </action>
+  <action id="ResizeToolWindowRight" />
   <action id="RiderUnitTestDebugContextTwAction" />
   <action id="RunDashboard.CopyConfiguration" />
   <action id="SelectNextOccurrence">
