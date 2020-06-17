@@ -44,6 +44,10 @@
   <action id="EditorUpWithSelection">
     <keyboard-shortcut first-keystroke="shift up" />
   </action>
+  <action id="EvaluateExpression">
+    <keyboard-shortcut first-keystroke="shift f9" />
+    <keyboard-shortcut first-keystroke="ctrl alt q" />
+  </action>
   <action id="ExpandRegion">
     <keyboard-shortcut first-keystroke="shift ctrl period" />
   </action>
@@ -110,9 +114,11 @@
   <action id="Table-selectNextColumnExtendSelection">
     <keyboard-shortcut first-keystroke="shift right" />
   </action>
+  <action id="ToggleRenderedDocPresentation" />
   <action id="Tree-selectChildExtendSelection">
     <keyboard-shortcut first-keystroke="shift right" />
   </action>
+  <action id="Vcs.QuickListPopupAction" />
   <action id="XDebugger.AttachToProcess">
     <keyboard-shortcut first-keystroke="ctrl alt f5" />
     <keyboard-shortcut first-keystroke="ctrl alt p" />
