@@ -1,0 +1,127 @@
+<keymap version="1" name="Visual Studio copy" parent="Visual Studio">
+  <action id="$Undo">
+    <keyboard-shortcut first-keystroke="ctrl z" />
+  </action>
+  <action id="ActivateProjectToolWindow">
+    <keyboard-shortcut first-keystroke="ctrl alt l" />
+    <keyboard-shortcut first-keystroke="alt 1" />
+    <keyboard-shortcut first-keystroke="ctrl b" />
+  </action>
+  <action id="Arrangement.Rule.Match.Condition.Move.Down" />
+  <action id="Arrangement.Rule.Match.Condition.Move.Up" />
+  <action id="ChangesView.Diff" />
+  <action id="ChooseNextSubsequentPropertyValueEditorAction" />
+  <action id="CollapseAllRegions">
+    <keyboard-shortcut first-keystroke="ctrl m" second-keystroke="o" />
+  </action>
+  <action id="CollapseBlock" />
+  <action id="CollapseRegion">
+    <keyboard-shortcut first-keystroke="ctrl period" />
+  </action>
+  <action id="CollapseSelection" />
+  <action id="CommentByLineComment">
+    <keyboard-shortcut first-keystroke="ctrl alt slash" />
+    <keyboard-shortcut first-keystroke="ctrl alt divide" />
+    <keyboard-shortcut first-keystroke="ctrl k" second-keystroke="c" />
+    <keyboard-shortcut first-keystroke="ctrl k" second-keystroke="ctrl c" />
+    <keyboard-shortcut first-keystroke="ctrl slash" />
+  </action>
+  <action id="CompareTwoFiles" />
+  <action id="Console.TableResult.CloneRow" />
+  <action id="DatabaseView.CopyAction" />
+  <action id="Diff.ApplyLeftSide" />
+  <action id="Diff.ShowDiff" />
+  <action id="Editor Undo">
+    <keyboard-shortcut first-keystroke="ctrl z" />
+  </action>
+  <action id="EditorChooseLookupItemDot" />
+  <action id="EditorDuplicate">
+    <keyboard-shortcut first-keystroke="shift alt down" />
+  </action>
+  <action id="EditorRightWithSelection">
+    <keyboard-shortcut first-keystroke="shift right" />
+  </action>
+  <action id="EditorUpWithSelection">
+    <keyboard-shortcut first-keystroke="shift up" />
+  </action>
+  <action id="EvaluateExpression">
+    <keyboard-shortcut first-keystroke="shift f9" />
+    <keyboard-shortcut first-keystroke="ctrl alt q" />
+  </action>
+  <action id="ExpandRegion">
+    <keyboard-shortcut first-keystroke="shift ctrl period" />
+  </action>
+  <action id="FileChooser.GotoDesktop" />
+  <action id="FileStructurePopup">
+    <keyboard-shortcut first-keystroke="alt back_slash" />
+    <keyboard-shortcut first-keystroke="shift ctrl t" />
+  </action>
+  <action id="GotoFile" />
+  <action id="Graph.ActualSize">
+    <keyboard-shortcut first-keystroke="ctrl divide" />
+  </action>
+  <action id="Images.Editor.ActualSize">
+    <keyboard-shortcut first-keystroke="ctrl divide" />
+  </action>
+  <action id="IncreaseColumnWidth" />
+  <action id="IncrementWindowWidth" />
+  <action id="LocateInSolutionView">
+    <keyboard-shortcut first-keystroke="shift alt l" />
+    <keyboard-shortcut first-keystroke="ctrl semicolon" />
+  </action>
+  <action id="MethodDown" />
+  <action id="MethodUp" />
+  <action id="MoveLineDown">
+    <keyboard-shortcut first-keystroke="alt down" />
+  </action>
+  <action id="MoveLineUp">
+    <keyboard-shortcut first-keystroke="shift alt up" />
+    <keyboard-shortcut first-keystroke="alt up" />
+  </action>
+  <action id="MoveTabRight">
+    <keyboard-shortcut first-keystroke="shift alt right" />
+  </action>
+  <action id="ReformatCode">
+    <keyboard-shortcut first-keystroke="ctrl alt enter" />
+    <keyboard-shortcut first-keystroke="ctrl k" second-keystroke="f" />
+    <keyboard-shortcut first-keystroke="ctrl k" second-keystroke="ctrl f" />
+    <keyboard-shortcut first-keystroke="ctrl k" second-keystroke="d" />
+    <keyboard-shortcut first-keystroke="ctrl k" second-keystroke="ctrl d" />
+    <keyboard-shortcut first-keystroke="ctrl e" second-keystroke="d" />
+  </action>
+  <action id="RenameElement">
+    <keyboard-shortcut first-keystroke="ctrl r" second-keystroke="r" />
+    <keyboard-shortcut first-keystroke="ctrl r" second-keystroke="ctrl r" />
+    <keyboard-shortcut first-keystroke="f2" />
+  </action>
+  <action id="ResizeToolWindowRight" />
+  <action id="RiderUnitTestDebugContextTwAction" />
+  <action id="RunDashboard.CopyConfiguration" />
+  <action id="SelectNextOccurrence">
+    <keyboard-shortcut first-keystroke="alt j" />
+    <keyboard-shortcut first-keystroke="ctrl d" />
+  </action>
+  <action id="SendEOF" />
+  <action id="ShowContent" />
+  <action id="ShowSearchHistory" />
+  <action id="SilentCodeCleanup">
+    <keyboard-shortcut first-keystroke="ctrl e" second-keystroke="f" />
+    <keyboard-shortcut first-keystroke="ctrl e" second-keystroke="ctrl f" />
+    <keyboard-shortcut first-keystroke="ctrl k" second-keystroke="e" />
+  </action>
+  <action id="SwitcherIterateItems" />
+  <action id="SwitcherRecentEditedChangedToggleCheckBox" />
+  <action id="Table-selectNextColumnExtendSelection">
+    <keyboard-shortcut first-keystroke="shift right" />
+  </action>
+  <action id="ToggleRenderedDocPresentation" />
+  <action id="Tree-selectChildExtendSelection">
+    <keyboard-shortcut first-keystroke="shift right" />
+  </action>
+  <action id="Vcs.QuickListPopupAction" />
+  <action id="XDebugger.AttachToProcess">
+    <keyboard-shortcut first-keystroke="ctrl alt f5" />
+    <keyboard-shortcut first-keystroke="ctrl alt p" />
+  </action>
+  <action id="openAssertEqualsDiff" />
+</keymap>
