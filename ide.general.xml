@@ -18,4 +18,11 @@
     <entry key="rdclient.asyncActions" value="false" />
     <entry key="ide.tree.expand.navigatable.on.double.click.disabled" value="true" />
   </component>
+  <component name="StatusBar">
+    <option name="widgets">
+      <map>
+        <entry key="CwmWireStatsWidgetFactory" value="false" />
+      </map>
+    </option>
+  </component>
 </application>
