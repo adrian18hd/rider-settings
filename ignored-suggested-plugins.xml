@@ -3,6 +3,7 @@
     <option name="pluginIds">
       <list>
         <option value="Abc.MoqComplete.Rider" />
+        <option value="me.seclerp.rider.plugins.efcore" />
       </list>
     </option>
   </component>
